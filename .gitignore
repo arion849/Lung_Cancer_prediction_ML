@@ -1,0 +1,22 @@
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# Large datasets / zip files
+*.zip
+lung_colon_image_set.zip
+lung_image_sets/
+
+# Output figures
+*.png
+Figure_1.png
+
+# OS-specific files
+.DS_Store
+Thumbs.db
